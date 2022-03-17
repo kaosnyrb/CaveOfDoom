@@ -1,0 +1,5 @@
+kill -9 17
+exec "/mnt/nand/portable beasts/GP2X_SDL.gpe"
+cd /usr/gp2x
+sync
+exec /usr/gp2x/gp2xmenu

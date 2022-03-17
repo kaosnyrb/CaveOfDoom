@@ -1,0 +1,9 @@
+killall gp2xmenu
+
+./PortBeast.gme
+
+
+# return to the menu screen
+cd /usr/gp2x
+sync
+exec /usr/gp2x/gp2xmenu

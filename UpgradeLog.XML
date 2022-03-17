@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Game">
+</Property><Property Name="Solution File" Value="U:\Advanced\Game.sln">
+</Property><Property Name="User Options File" Value="U:\Advanced\Game.suo">
+</Property><Property Name="Date" Value="06 November 2008">
+</Property><Property Name="Time" Value="10:11">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Game.sln" Description="File successfully backed up as U:\Advanced\Game.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="Game.suo" Description="File successfully backed up as U:\Advanced\Game.suo.old">
+</Event><Event ErrorLevel="0" Project="Win32_SDL" Source="Win32_SDL\Win32_SDL.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="Win32_SDL" Source="Win32_SDL\Win32_SDL.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="Win32_SDL" Source="Win32_SDL\Win32_SDL.vcproj" Description="Project file successfully backed up as 'U:\Advanced\Win32_SDL\Win32_SDL.vcproj.8.00.old'.">
+</Event><Event ErrorLevel="0" Project="Win32_SDL" Source="Win32_SDL\Win32_SDL.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="Win32_SDL" Source="Win32_SDL\Win32_SDL.vcproj" Description="Converted">
+</Event><Event ErrorLevel="2" Project="GP2X_SDL" Source="GP2X_SDL\GP2X_SDL.vcproj" Description="The following error has occurred during XML parsing:&#xA;&#xA;File: U:\Advanced\GP2X_SDL\GP2X_SDL.vcproj&#xA;Line: 17&#xA;Column: 4&#xA;Error Message:&#xA;Custom build rules file 'C:\devkitpro\devkitGP2X\arm-linux.rules' was not found or failed to load.&#xA;The file 'U:\Advanced\GP2X_SDL\GP2X_SDL.vcproj' has failed to load.">
+</Event><Event ErrorLevel="2" Project="GP2X_SDL" Source="GP2X_SDL\GP2X_SDL.vcproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="GP2X_SDL" Source="GP2X_SDL\GP2X_SDL.vcproj" Description="Not Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Game.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Game.sln" Description="Converted">
+</Event></UpgradeLog>
